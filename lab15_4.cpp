@@ -12,8 +12,10 @@ int main(){
 	
 	for(int i = 0;i < 10;i++){
 	    shuffle(a,b,c,d);
-	    cout << a << " " << b << " " << c << " " << d << "\n";
+	    cout << a << " " << b << " " << c << " " << d << endl;
 	}
 	
 	return 0;
 }
+
+//Do not modify source code above this line
